@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender visitation in the love of God unto all people everywhere particularly unto the inhabitants of Wiltshire, Gloucestershire, and Bristol, and to my neighbours in and about Tetherton, Calloways, and the adjacent towns and villages / by Charles Marshall.</title>
+            <author>Marshall, Charles, 1637-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52032</idno>
+            <idno type="STC">Wing M744</idno>
+            <idno type="STC">ESTC R28809</idno>
+            <idno type="EEBO-CITATION">10763222</idno>
+            <idno type="OCLC">ocm 10763222</idno>
+            <idno type="VID">45719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52032)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1406:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender visitation in the love of God unto all people everywhere particularly unto the inhabitants of Wiltshire, Gloucestershire, and Bristol, and to my neighbours in and about Tetherton, Calloways, and the adjacent towns and villages / by Charles Marshall.</title>
+                  <author>Marshall, Charles, 1637-1698.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Sowle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45719:1" rendition="simple:additions"/>
+            <p>A <hi>Tender Viſitation</hi> IN THE Love of God UNTO All People every where, Particularly unto the Inhabitants of <hi>Wiltſhire, Glouceſterſhire</hi> and <hi>Briſtol.</hi> And to my Neighbours in and about <hi>Tetherton, Calloways,</hi> and the adjacent Towns and Villages.</p>
+            <p>By <hi>Charles Marſhall.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, 21.8.</hi>
+                  </bibl> And unto this People thou ſhalt ſay, Thus ſaith the Lord, behold I ſet before you the Way of Life, and the Way of Death.</p>
+               <p>
+                  <bibl>
+                     <hi>Prov. 6.23.</hi>
+                  </bibl> For the Commandment is a Lamp, and the Law is Light, and the Reproofs of Inſtruction are the Way of Life.</p>
+               <p>
+                  <bibl>
+                     <hi>Prov. 4.13.</hi>
+                  </bibl> Take faſt hold of Inſtruction, let her not go, keep her, for ſhe is thy Life.</p>
+               <p>
+                  <bibl>
+                     <hi>Cor. 5.10, 11.</hi>
+                  </bibl> For we muſt all appear before the Judgment Seat of Chriſt, that every one may receive the things done in his Body, according to that he hath done, whether it be good or bad; knowing therefore the Terrors of the Lord, we perſwade men, &amp;c.</p>
+               <p>
+                  <bibl>
+                     <hi>Rom. 2.9, 10.</hi>
+                  </bibl> Tribulation and Anguiſh upon every Soul of man that doth Evil, of the <hi>Jew</hi> firſt, and alſo the <hi>Gentile;</hi> but Glory, Honour and Peace to every man that worketh good, to the <hi>Jew</hi> firſt, and alſo to the <hi>Gentile;</hi> for there is no reſpect of Perſons with God.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>Andrew Sowle,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:45719:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:45719:2" rendition="simple:additions"/>
+            <head>A Tender Viſitation, &amp;c.</head>
+            <opener>
+               <salute>
+                  <hi>Friends, Neighbours</hi> &amp; <hi>Country-men;</hi>
+               </salute>
+            </opener>
+            <p>AMongſt whom I have had my Converſation (in times paſt) in the ſear of the Lord God of Hea<g ref="char:EOLhyphen"/>ven and Earth (and now being a Sufferer in this Priſon for Jeſus Chriſt's ſake) I am conſtrained in his tender Love to viſit you by theſe Lines, ſtirring you up to a <hi>tender</hi> and <hi>ſerious Examination</hi> and Conſideration, <hi>What Way on are walking in?</hi> ſeeing there is but <hi>Two Ways,</hi> as Chriſt Jeſus ſaith, <hi>Mat.</hi> 7.13, 14. <hi>Enter ye in at the ſtrait Gate, for wide is the Gate and broad is the Way that leadeth to Deſtruction, and many there be that go in thereat; becauſe ſtreight is the Gate and narrow is the Way that leadeth unto Life, and few there be that find it.</hi> Now, commune with your own Hearts, and be truly ſtill in your Minds, and ſay unto your own Souls,
+<note place="margin">Job 22.15.</note> 
+               <hi>What Way are we walking in?</hi> For Chriſt Jeſus here takes no notice of the many Ways and Profeſſions of Religion, both among <hi>Jews</hi> and <hi>Gentiles,</hi>
+               <note place="margin">Iſa. 45.17.</note> but plainly concludes all People walk<g ref="char:EOLhyphen"/>ing in one of theſe Wayes, namely, the <hi>wide Gate</hi> and <hi>broad Way,</hi> or the <hi>ſtreight Gate</hi> and <hi>narrow Way.</hi> Its true,
+<note place="margin">Prov. 14.12.</note> there are now many Wayes and Profeſſions of Religion in this Age of the World, but now, as then, they are all concluded under theſe two,
+<note place="margin">Rom. 8.6. Prov. 72.7. Matt. 3.8. John 15.2.</note> 
+               <hi>The Way of Life</hi> and the <hi>Way of Sin and Death.</hi> And as theſe <hi>Two Wayes</hi> are con<g ref="char:EOLhyphen"/>trary one to another, ſo are the Fruits different that are brought forth by Men and Women walking in theſe Wayes. All that are walking in the <hi>broad Way,</hi> are
+<pb n="4" facs="tcp:45719:3" rendition="simple:additions"/>bringing ſorth the Fruits of the broad Way, which are, <hi>Wrath,
+<note place="margin">Matt. 15.18, 19, 20. Gal. 5.19, 20, 21.</note> Murder, evil Thoughts, Adulteries, Thefts, falſe Witneſſes, Blaſphemies,</hi> which the Apoſtle alſo ſumming up together, ſaith, are theſe, <hi>Adulteries, Fornications, <g ref="char:V">Ʋ</g>ncleanneſs, Laſciviouſneſs, Idolatry, Witchcraft, Hatred, Variance, Emulation, Wrath, Strife, Sedition, Hereſies, Envyings, Murders, Drunkenneſs, Revelling
+<note n="*" place="margin">Mark, <hi>Neighbours, Revelling.</hi>
+                  </note>, and ſuch like;</hi> and ſaith, <hi>that they which do ſuch things, ſhall not inherit the Kingdom of God:</hi>
+               <note place="margin">1 John 15.2.</note> Now theſe are the Fruits of the broad Way, and of thoſe walking therein. And this Way is called <hi>Broad</hi> becauſe here men may walk in their <hi>Sins</hi> and <hi>Iniquities,</hi>
+               <note place="margin">Prov. 4.15, 16.</note> in the <hi>Pleaſures</hi> and <hi>Vanities</hi> of their Minds; and the <hi>Gate</hi> is <hi>wide</hi> to receive all that ſpend their precious Times, both Morning and Evening of their <hi>Day,</hi>
+               <note place="margin">Pſal. 86 11.</note> and not in the Fear, Awe and Dread of the holy God: And here the Multitude, as aforeſaid, walk in this Way;
+<note place="margin">Prov. 15.9, 10.</note> for the Enemy of Mankind, the Devil, cares not what men may profeſs, in words, of God, Chriſt, the Kingdom of Heaven, Religion and Worſhip, while they continue walking in the <hi>Broad Way,</hi> which leads to his Kingdom of Darkneſs.
+<note place="margin">Prov. 4.19. Matt. 15.7, 8, 9.</note> Hence it was that the great God by his Servants, the Prophets and Apoſtles, teſtified againſt their Worſhips and Performances, and that of ſeveral things, which were once commanded; And why? ye may ſee it was, they had forſaken the Right Way of the Lord, and were performing their Worſhip in the ſame <hi>Nature,
+<note place="margin">Pſal. 146.9.</note> Spirit</hi> and <hi>Way</hi> they were ſinning in againſt God; their Hearts were corrupt and Conſciences defiled. And he complains by <hi>Iſaiah</hi> (chap. 65.2.) <hi>I have ſpread out my Hands all the day unto a Rebellious and Gain-ſaying People, which walk in a Way that was not good, after their own Hearts:</hi>
+               <note place="margin">Prov. 12.16.</note> This Way that was not good, was the <hi>Broad Way,</hi> in which they were, as now many are
+<pb n="5" facs="tcp:45719:3" rendition="simple:additions"/>walking in, notwithſtanding all their out-ſide profeſſion of Religion: and as ſaith the Lord by his Prophet <hi>Iſaiah,</hi> chap. 1. v. 11, 12, 13, 14, 15, 16, 17. <hi>To what purpoſe is the m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltitude of your Sacrifices unto me, ſaith the Lord? I am full of Burnt-offerings, of Rams and the fat of fed Beaſts, and I delight not in the blood of Bullocks, or of Lambs, or of the Hee-Goats. When ye come to appear before me, who hath re<g ref="char:EOLhyphen"/>quired this at our hand, to tread my Courts? Bring no more vain Oblations, Incenſe is an Abomination to me; the New Moons and Sabbaths, the calling of Aſſemblies I cannot away with; it is INIQ<g ref="char:V">Ʋ</g>ITY, even the ſolmn Meeting; your New Moons, and your Appointed Feaſts my Soul hateth, they are a trouble unto me, I am weary to bear them. And when ye ſpread forth your hands, I will hide mine Eyes from you; yea, when ye make many Prayers, I will not hear; your hands are full of Blood. Waſh ye, make ye clean, put away the Evil of your Doings from before mine Eyes, ceaſe to do Evil, learn to do well; ſeek Judgment, relieve the Oppreſſed, plead for the Widdow, &amp;c.</hi> So you may ſee,
+<note place="margin">Acts 17.23, 24, 25, 26, 27. Iſa. 55.7.</note> that no Performances of Worſhip, or Service, were any longer acceptable in the ſight of God, than they were performed by Men and Women walking in the <hi>Way of the Lord,</hi> denying themſelves, and cleaving to the good Spirit of God, which the Lord ſaid by his Prophet, he <hi>gave to inſtruct and guide them, but they</hi> (ſaith the Lord) <hi>rebelled againſt it.</hi>
+               <note place="margin">Gen. 3.17.18.24. Iſa. 43.27, 28. Gen. 4.7, 8.</note> This is the <hi>broad Way Adam</hi> and <hi>Eve</hi> through Degeneration went into, when they diſobey'd God, and tranſgreſſed his Righteous Law and Com<g ref="char:EOLhyphen"/>mandment. This is the <hi>Broad Way</hi> that <hi>Cain</hi> walked in, when he ſlew his innocent Brother <hi>Abel:</hi> This is the Way that the <hi>Old World</hi> walked in,
+<note place="margin">Gen. 6.5, 6, 7. Gen. 6.3.</note> when they had through diſobedience turned aſide, ſo as that the Lord ſaid, <hi>My ſpirit ſhall not always ſtrive with man;</hi> and it
+<pb n="6" facs="tcp:45719:4" rendition="simple:additions"/>
+               <hi>repented the Lord that he had made Man on Earth, and it grieved him at his Heart.</hi> This is the <hi>Broad Way</hi> in which <hi>Iſrael</hi> walked when they had <hi>forſaken the Lord, the Foun<g ref="char:EOLhyphen"/>tain of their living Mercies,</hi>
+               <note place="margin">Jer. 17.13.</note> and provoked him to Anger both in the Wilderneſs and through ſeveral Generations, as you may read in the Prophets, whom the Lord ſent to teſtifie againſt them.
+<note place="margin">1 Cor. 10.22. Pſal. 119.104. Mat. 27.46.</note> This is the <hi>Broad Way</hi> the <hi>Scribes</hi> and <hi>Phariſees</hi> were walking in, notwithſtanding all their great Profeſſions of Religion, who <hi>killed the Lord of Life and Glory,</hi> Chriſt Jeſus. This <hi>Broad Way</hi> is that which the apoſtatizing <hi>Chriſtians</hi> walked, and are walking, which <hi>Jude</hi> pronounced <hi>Wo</hi> againſt,
+<note place="margin">Jude 11.</note> becauſe <hi>they walked in the Way of Cain.</hi> It was a going out of the <hi>Narrow Way</hi> of Obedience, and walking in the <hi>Broad Way</hi> of Diſobedience that brought the <hi>Judgments, Plagues</hi> and <hi>Calamities,
+<note place="margin">Lamen. 2.</note> Miſeries, Exhauſtings</hi> and <hi>Depopulations</hi> of Nations and Kingdoms from <hi>Adam</hi>'s day to this day: 'Twas going out of the <hi>Narrow Way</hi> of Obedience into the <hi>Broad Way</hi> of Diſobedience,
+<note place="margin">Gen. 3.17, 18. Gen. 4.11, 12 Gen. 6.5, 6, 7. Exod. 32.3, 4, 5, 6. Iſa. 34.1, 2, 3, 4, 5, 6.</note> that brought <hi>Miſery</hi> on <hi>Adam,</hi> the <hi>Curſe</hi> on <hi>Cain, Deſtruction</hi> by a <hi>Flood</hi> on the <hi>Old World, Judgment</hi> on the Children of <hi>Iſrael</hi> in the Wilder<g ref="char:EOLhyphen"/>neſs, and ſore <hi>Plagues</hi> and <hi>Calamities</hi> through ſeveral Ge<g ref="char:EOLhyphen"/>nerations, as you may read even all along in the Prophets; and then what befell <hi>Jeruſalem</hi> and that People, and ſince through the Ages and Generations to this day?</p>
+            <p>Now having in ſhort ſaid ſomething of the <hi>Broad Way,</hi> and <hi>Wide Gate,</hi> and of the Walkers therein; I am to write ſomething of the <hi>Narrow Way</hi> and <hi>Streight Gate,</hi> which Chriſt Jeſus ſaith,
+<note place="margin">John 14.6. Jer. 6.16.</note> 
+               <hi>few find:</hi> This is the <hi>Way</hi> called in Scripture the <hi>Antient Way</hi> of <hi>Holineſs,</hi> and is called <hi>Narrow,</hi> and the <hi>Gate Streight,</hi> becauſe no double-mind<g ref="char:EOLhyphen"/>ed Man can walk therein.
+<note place="margin">James 1.8. Prov. 10.29.</note> For all mankind, that come to walk in this way, muſt leave their <hi>Iniquities</hi> behind;
+<pb n="7" facs="tcp:45719:4" rendition="simple:additions"/>for there is no coming out of the <hi>Broad</hi> into the <hi>Narrow,</hi>
+               <note place="margin">Jer. 10.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> but by <hi>putting off</hi> (as the Apoſtle ſaith) <hi>the Old Man with his Deeds;</hi> and this is effected by adhearing,
+<note place="margin">Epheſ. 4.22.</note> joyning and obeying the <hi>Grace</hi> that came by Chriſt Jeſus;
+<note place="margin">Tit. 2.11, 12.</note> which the Apoſtle ſaith, <hi>bringeth Salvation, teacheth to deny <g ref="char:V">Ʋ</g>ngodli<g ref="char:EOLhyphen"/>neſs,</hi> and <hi>worldly Luſts,</hi> and not only ſo, but leads into a living Godly, Righteouſly and Soberly in this preſent World: This makes manifeſt the <hi>Broad Way,</hi> gives a ſenſe of the Deſtruction it leads to,
+<note place="margin">Iſa. 30.20, 21.</note> and leads out of it in<g ref="char:EOLhyphen"/>to the <hi>Narrow Way.</hi> And albeit this <hi>Way</hi> is <hi>narrow,</hi> and the <hi>Gate ſtreight</hi> to mankind in the Fall and Alienation from God, walking in the <hi>Broad Way,</hi> laden with <hi>Sins,</hi>
+               <note place="margin">Jer. 22.36.</note> as before-mentioned, yet as Men and Women come out of the <hi>broad Way,</hi> and from delighting in Unrighteouſneſs, and come to delight in following the Lamb of God,
+<note place="margin">Mat. 19.28.</note> Chriſt Jeſus by his Spirit, who leads the Obedient on in the bleſſed work of <hi>Regeneration,</hi>
+               <note place="margin">Iſa. 42.16.</note> he will ſee that the <hi>Way</hi> of the <hi>Lord</hi> is a pleaſant Way, and the <hi>Juſt man's Path a ſhining Light,
+<note place="margin">Prov. 4.18.</note> that ſhineth more and more to the per<g ref="char:EOLhyphen"/>fect Day,</hi> and ſo ſhall drink of the Brook of Comfort and Conſolation by the way, and ſay with <hi>Solomon;
+<note place="margin">Ch. 12.28.</note> In the Way of Righteouſneſs is Life, and in the Path-Way thereof there is no Death:</hi> [Mark,] <hi>Life</hi> to the Soul,
+<note place="margin">Ch. 13.15.</note> is <hi>Death</hi> to Sin; here the Ranſomed by the precious Blood of Chriſt Jeſus return to <hi>Sion,</hi> with everlaſting Joy upon their Heads.</p>
+            <p>But now all that come to walk in the <hi>ſtreight Way,</hi>
+               <note place="margin">Heb. 10.20.</note> and enter in at the <hi>ſtreight Gate,</hi>
+               <note place="margin">Luke 9.23, 24, 25.</note> muſt take up the <hi>Croſs of Chriſt Jeſus daily, and deny themſelves;</hi> and in the ſtrength received by the heavenly <hi>Grace of God</hi> reſiſt and with<g ref="char:EOLhyphen"/>ſtand all the <hi>Temptations</hi> of the <hi>Devil,</hi> who <hi>Tempts</hi> moſt to that Sin and Iniquity, he knows Man is moſt prone to: but when he comes to <hi>Tempt,</hi>
+               <note place="margin">Prov. 2.7, 8.</note> and thy mind exer<g ref="char:EOLhyphen"/>ciſed
+<pb n="8" facs="tcp:45719:5" rendition="simple:additions"/>in the <hi>Light</hi> of Chriſt Jeſus,
+<note place="margin">1 Pet. 2.9.</note> thou ſeeſt his <hi>Tempta<g ref="char:EOLhyphen"/>tions,</hi> and thy Soul's Deſires and breathing Supplications aſcend to the Lord God of Strength, for the lifting up of his ſpiritual Standard in thy Soul againſt the <hi>Temptations</hi> and power of the Enemy in every <hi>evil Thought</hi> and <hi>Incli<g ref="char:EOLhyphen"/>nation,</hi>
+               <note place="margin">1 Cor. 10.13.</note> in which the Enemy worketh firſt. And there<g ref="char:EOLhyphen"/>fore in <hi>Matt.</hi> 15. ver. 18. thou mayſt read, Chriſt Jeſus put <hi>Evil Thoughts</hi> firſt, before <hi>Wrath, Murther</hi> and <hi>Adul<g ref="char:EOLhyphen"/>try,</hi>
+               <note place="margin">James 1.15.</note> &amp;c. for there is a time of Sin's <hi>Conceiving</hi> in the in<g ref="char:EOLhyphen"/>ward parts, before <hi>bringing forth</hi> and <hi>finiſhing,</hi> which the Apoſtle obſerving, ſaith, <hi>When it is finiſhed, it brings forth Death; for the Wages of Sin is Death, but the Gift of God is Eternal Life through Jeſus Chriſt,</hi> &amp;c.</p>
+            <p>Now the holy <hi>Light</hi> and ſaving <hi>Grace</hi> of <hi>God</hi> gives the ſight,
+<note place="margin">John 1.</note> and makes a diſcovery of Sin in its firſt ariſing, even when the power of the Enemy worketh to <hi>Tempt</hi> and <hi>Allure</hi> man, and draw him aſide: but now while it is only in the <hi>Temptation,</hi>
+               <note place="margin">James 1.14. James 1.12.13.</note> and man in the Spirit of his mind not joyned to the <hi>Temptation,</hi> it is not charged as <hi>Sin;</hi> but when man gives up and cloſeth with the <hi>Temp<g ref="char:EOLhyphen"/>tation,</hi> ſo as to obey it, then is <hi>Sin finiſhed, and brings forth Death:
+<note place="margin">Rom. 6.16.</note> For his Servants ye are</hi> (ſaith the Apoſtle) <hi>whom ye obey, whether it is of ſin unto Death, or of Righ<g ref="char:EOLhyphen"/>teouſneſs unto Life.</hi>
+            </p>
+            <p>Now read here a little <hi>Neighbours</hi> and <hi>Country-men,</hi> How far reacheth your <hi>Experience</hi> in this <hi>Narrow Way,</hi> where Men and Women with their <hi>ſins</hi> cannot walk? for this is the Holy <hi>Way</hi> and Divine <hi>Path,</hi>
+               <note place="margin">Pſal. 16.11 Prov. 4.18.</note> that man finds in his coming out of <hi>ſin,</hi> and departing from all <hi>Ini<g ref="char:EOLhyphen"/>quity.</hi> But ſome will be ready to ſay, <q>If we ſhould hearken to this Counſel, and obey the <hi>Grace</hi> of <hi>God,</hi> thou art directing to,
+<note place="margin">Tit. 2.11, 12.</note> which brings Salvation, which the Apoſtle ſays, <hi>Teacheth to deny all <g ref="char:V">Ʋ</g>ngodlineſs and
+<pb n="9" facs="tcp:45719:5" rendition="simple:additions"/>worldly Luſts;</hi> and not only ſo, but it brings to <hi>live So<g ref="char:EOLhyphen"/>berly, Godlily</hi> and <hi>Righteouſly in this preſent evil World,</hi> and ſo teacheth to <hi>forſake the Devil and all his Works, tho Pomps and Vanities of this evil World, and all the ſinful Luſts of the Fleſh,</hi>
+                  <note place="margin">Epheſ. 14.22.</note> which many have promiſed in their <hi>Baptiſm,</hi> ſo called; and ſo have our whole Converſa<g ref="char:EOLhyphen"/>tion changed, and become other men, not walking in the way moſt of our <hi>Country-Town</hi> or <hi>Village</hi> walks in; we fear we ſhould become a <hi>By-Word</hi> and <hi>Scorn</hi> of our Neighbours and Acquaintance; nay,
+<note place="margin">Pſal. 27.10, 11, 12.</note> we doubt our Kindred and near Relations would forſake us, and we ſhould become as ſtrangers unto them, and loſe their Reſpect, and it may be loſe our <hi>Imploy</hi> and <hi>Trade,</hi> and endanger a diſappointment on our ſelves of the expe<g ref="char:EOLhyphen"/>ctation we had from ſome Relations; and ſhould we go to Markets and Fairs,
+<note place="margin">Pſal. 24.11.</note> and uſe but <hi>few</hi> and <hi>ſavoury Words</hi> in our <hi>Dealing,</hi> as the fear of the Lord teacheth, and refuſe to <hi>drink</hi> to <hi>Exceſs,</hi>
+                  <note place="margin">Pſal. 5.8.12.</note> beyond what Nature re<g ref="char:EOLhyphen"/>quires for its nouriſhment and refreſhment, and not be <hi>vainly Merry,</hi> as in times paſt we were,
+<note place="margin">Prov. 2.15.20. Prov. 4.19.</note> ſhould be a <hi>Deriſion</hi> and a <hi>By-Word,</hi> and ſcorned by ſuch who have been our Companions in thoſe things in times paſt: And this might be very hard to bear, not only to us, but alſo ſome neareſt <hi>Relations.</hi>
+               </q>
+            </p>
+            <p>To which I Anſwer: If any ſhould meet with ſuch Exerciſes as theſe, for turning from Sin and Evil,
+<note place="margin">Pſ. 139.24.</note> and ceaſing to walk in the <hi>Broad</hi> Way, which many walk in, as aforeſaid, there is no cauſe to be diſcouraged:
+<note place="margin">Pſ. 119.104.</note> for <hi>thoſe,</hi> ſaith the Scripture, <hi>that depart from Iniquity, make themſelves a Prey;</hi>
+               <note place="margin">Pſal. 69.12.</note> And the Servants of the Lord were the <hi>ſong</hi> of the <hi>Drunkard:</hi> And the Apoſtle ſaith,
+<note place="margin">1 Pet. 4.1, 2, 3, 4, 5.</note> 
+               <hi>Wherein they think it ſtrange that you run not with them to the ſame exceſs of Riot, ſpeaking Evil of you; who ſhall give an Ac<g ref="char:EOLhyphen"/>count
+<pb n="10" facs="tcp:45719:6" rendition="simple:additions"/>to him that is ready to judge the Quick and Dead.</hi>
+               <note place="margin">Pſal. 58.11.</note> So look over all the <hi>Reproaches</hi> you meet with for Righte<g ref="char:EOLhyphen"/>ouſneſs ſake:
+<note place="margin">Prov. 2.12, 13. Pſal. 71.7. Pſal. 71.8 Mark 8.34. Luke 9.23. Rom. 8.18.</note> For ye may remember how Chriſt Jeſus the Lord was <hi>Reproached,</hi> for following whom ye may be <hi>reproached.</hi> But after ye are exerciſed in the <hi>Narrow Way,</hi> taking up the <hi>Croſs</hi> of Chriſt Jeſus (deſpiſing the ſhame) you will feel that <hi>Soul-ſatisfaction, inward. Peace</hi> and <hi>divine Conſolation,</hi> that will adminiſter that heavenly <hi>Content,</hi> that will out-ballance all Exerciſes and Tryals of this Nature; ſo that you will have often cauſe to magnifie the <hi>Lord,</hi>
+               <note place="margin">Pſal. 71.15, 16.</note> and to ſay, <hi>He is good, and abounding in his Love and Tender Mercies over the workmanſhip of his own Hand,</hi> who hath viſited our Souls when we were poſting on in the <hi>Broad Way</hi> of Deſtruction,
+<note place="margin">Rom. 3.16, 17.</note> and had only a <hi>Profeſſion</hi> (by the hearing of the Ear) of <hi>God, Chriſt</hi> and his <hi>Kingdom, Scriptures, Religion,</hi> and once a Week confeſſing, <q>
+                  <hi>We were miſerable Sinners, erring and ſtray<g ref="char:EOLhyphen"/>ing from the right Way of the Lord,</hi>
+               </q> but knew not the True <hi>Repentance,</hi>
+               <note place="margin">Acts 3.19.</note> which is alwayes accompanied with a true forſaking Sin and Iniquity. But the <hi>God</hi> of the <hi>Hebrews</hi> hath met with us,
+<note place="margin">Acts 17.30, 31. Joh. 1.1, 2, 3, 4, 5, 6, 7, 8.</note> who beheld us as <hi>Bond-Slaves</hi> in ſpiritual <hi>Egypt,</hi> and he hath viſited our Souls with his heavenly <hi>Morning</hi> of <hi>Light,</hi> by which we have ſeen our ſinful Ways and Life in Iniquity, and vain Worſhips, which was ſo far from being performed in the <hi>Spirit,</hi> that we were ſome of that number in our <hi>Pariſh</hi> that deſpiſed the <hi>Spirit,</hi>
+               <note place="margin">Luke 10.16.</note> and mocked them that worſhip in it, which is the Antient Worſhip Chriſt Jeſus ſet up above ſixteen hundred years ago, as ye may read, Jefus ſaid unto the Woman,
+<note place="margin">John 4.23, 24.</note> 
+               <hi>The hour cometh, and now is, the true Worſhippers ſhall worſhip the Father in Spirit and in Truth, for the Father ſeeketh ſuch to worſhip him; for God is a Spirit, and they that worſhip him, muſt worſhip him in
+<pb n="11" facs="tcp:45719:6" rendition="simple:additions"/>Spirit and in Truth.</hi> So we ſee now, that all <hi>Worſhip</hi> not performed thus in the <hi>Spirit</hi> and <hi>Truth,</hi> hath no Accep<g ref="char:EOLhyphen"/>tance with the holy, righteous and equal God of tender Mercies and Compaſſions, through whoſe favour we contemn and deſpiſe all the <hi>Reproaches</hi> for his Name-ſake,
+<note place="margin">Heb. 11.26. 1 Pet. 4.14.</note> rather chuſing to ſuffer <hi>Reproaches</hi> with a People truly fearing God, and eſchewing Evil, than live in the <hi>Plea<g ref="char:EOLhyphen"/>ſures of Sin, which is but for a ſeaſon,</hi>
+               <note place="margin">2 Theſ. 1.6, 7, 8, 9. Luke 16.23, 24, 25, 28.</note> and then ends in Torment, Pains, Miſeries and Aſtoniſhment beyond all expreſſions of Words, &amp;c. Now where any poor tra<g ref="char:EOLhyphen"/>velling Souls are thus exerciſed in coming out of the <hi>Broad Way</hi> into the <hi>Narrow Way</hi> of Life Eternal, and in<g ref="char:EOLhyphen"/>wardly waiting on the Lord, receiving the Inſtruction of his Heavenly Gift,
+<note place="margin">Prov. 10.17.</note> ſuch will ſee and underſtand more and more of the Heavenly <hi>streight Gate,</hi> and <hi>narrow Way,</hi> and it will be daily more and more eaſie and delightful to the Obedient; ſo that ſuch will Experience what Chriſt Jeſus ſaith, <hi>Take my Yoke on you and learn of me,
+<note place="margin">Mat. 11.29, 30.</note> for I am meek, and lowly in Heart, and ye ſhall find Reſt unto your ſouls, for my Yoke is eaſie and Burthen light.</hi> The Yoke and Burthen of Chriſt Jeſus is indeed eaſie when the Mind is ſubjected unto the <hi>ſaving Grace of God,</hi> which teach<g ref="char:EOLhyphen"/>eth, as I mentioned before, what to deny,
+<note place="margin">Epheſ. 2.5, 6, 7, 8. Pſal. 119.265.</note> and how to walk, ſo as thou mayſt have an anſwer of Peace, in plea<g ref="char:EOLhyphen"/>ſing God the Fountain of all our Mercies: and then when any <hi>mock</hi> or <hi>ſcoff,</hi> thou wilt remember, thou waſt walking once in <hi>Iſhmael</hi>'s <hi>way</hi> of <hi>Scoffing,</hi> as they are, and thou wilt pity them, and thy Soul will be concerned for thy <hi>Neighbours, Relations</hi> and <hi>Acquaintance,</hi> crying to the Lord, that as he has viſited thy Soul through his <hi>Grace,</hi> that brings Salvation, and ſhewed thee Kind<g ref="char:EOLhyphen"/>neſs, ſo he would do for thy <hi>Neighbours.</hi> And this leads into the Chriſtian Nature and Spirit, <hi>not to render Evil
+<pb n="12" facs="tcp:45719:7" rendition="simple:additions"/>for Evil,
+<note place="margin">1 Pet. 3.9.</note> Anger</hi> for <hi>Anger, Scoffing</hi> and <hi>Reproathing</hi> for the ſame; but <hi>Good</hi> for <hi>Evil, Love</hi> for <hi>Hatred;</hi> pray<g ref="char:EOLhyphen"/>ing for them as Chriſt Jeſus did; <hi>Father, forgive them, they know not what they do.</hi>
+            </p>
+            <p>So following this meek Lamb of God, the Saviour of Mankind, thou wilt have an encreaſed ſight of the dif<g ref="char:EOLhyphen"/>ference between a <hi>Chriſtian in Name,</hi> and a <hi>Chriſtian in Nature:</hi> A <hi>Chriſtian in Name</hi> is ſuch that have only an outſide <hi>Profeſſion</hi> of Chriſtianity, <hi>God, Chriſt,</hi> the <hi>Scrip<g ref="char:EOLhyphen"/>tures</hi> and <hi>Religion,</hi> drawing near to the Lord with the Lips,
+<note place="margin">Iſa. 29.13. Mark 7.6.</note> and honouring him with the Mouth, whilſt the Heart is going after Sin and Vanity, and is far from Righteouſneſs, &amp;c. A <hi>Chriſtian in Name</hi> and Profeſſion of Chriſtianity only, is a <hi>Talker</hi> of the <hi>narrow Way</hi> and <hi>ſtreight Gate,</hi> but is a <hi>Walker</hi> in the <hi>broad Way,</hi> having a Name to live,
+<note place="margin">Rom. 11.28, 29.</note> but is dead in Sins and Treſpaſſes. But a <hi>True Chriſtian</hi> in the divine Nature is <hi>Circumciſed</hi> in<g ref="char:EOLhyphen"/>ward, and is a <hi>Jew inward,</hi> one that is born again, with<g ref="char:EOLhyphen"/>out which Chriſt Jeſus ſaith, there cannot be an entring into the Kingdom of Heaven;
+<note place="margin">Joh. 3.5.</note> ſo is really changed in Nature,
+<note place="margin">Joh. 15.11.</note> and cut off from the <hi>wild Olive,</hi> and planted in<g ref="char:EOLhyphen"/>to the true Vine, the <hi>Divine Nature,</hi> from whence Fruits of Chriſtianity are brought forth: here the <hi>Circumciſion</hi> is not that of the Fleſh,
+<note place="margin">John 5.4.</note> but that of the <hi>Spirit:</hi> A <hi>Chriſtian</hi> in the <hi>Divine Nature</hi> is one that hath followed the Lamb in the <hi>Regeneration,</hi> and ſo hath put off the evil corrupt Na<g ref="char:EOLhyphen"/>ture, and now appears amongſt men in <hi>ſinplicity,</hi> bring<g ref="char:EOLhyphen"/>ing forth the Fruits of the Spirit, <hi>Love, Joy, Peace, Long<g ref="char:EOLhyphen"/>ſuffering,
+<note place="margin">Gal. 5.20.25.22, 23, 24.</note> Gentleneſs, Goodneſs, Faith, Meekneſs, Tempe<g ref="char:EOLhyphen"/>rance, Mercy</hi> and <hi>good Will to mankind.</hi> And ſo perſeve<g ref="char:EOLhyphen"/>ring in the Way of the Lord, thy Experience will in<g ref="char:EOLhyphen"/>creaſe in the knowledge of the Foot-ſteps of the Flock of Chriſt Jeſus,
+<note place="margin">Cant. 1.8.</note> ſeeing firſt how thou waſt turned from
+<pb n="13" facs="tcp:45719:7" rendition="simple:additions"/>
+               <hi>Darkneſs</hi> unto the marvelous <hi>Light</hi> of God's Holy-Day,
+<note place="margin">Acts 26.18.</note> with which thy Heart was ſearched, and ſin became exceeding ſinful, and unexpreſſibly burdenſom. And then thy Soul cryed out in diſtreſs unto the Lord God for <hi>Deliverance,</hi>
+               <note place="margin">Pſal. 12.5.</note> who hath heard the Cry of the poor in ſpirit, and ſighing of the needy, and made bare his de<g ref="char:EOLhyphen"/>livering Arm, and in due time gave Remiſſion of ſin, and a blotting out of Tranſgreſſion.
+<note place="margin">Acts 3.19.</note> And then <hi>Times</hi> of <hi>Refreſhment</hi> came from the Preſence of the Lord, and from the Glory of his divine Power, that hath wrought effectually for the cutting off from the <hi>Wild Olive,</hi> and brought thee out of the <hi>Broad Way,</hi> and planted thee into the heavenly Vine of Life (that is the Way) and made thee a Branch of the heavenly Vine, daily receiving hea<g ref="char:EOLhyphen"/>venly Sap and divine Virtue from this heavenly holy Root; and then lets thee ſee thy daily ſpiritual incum<g ref="char:EOLhyphen"/>bant Duty, which is, to abide in the Vine, Chriſt Jeſus.
+<note place="margin">Joh. 15.4, 5.</note> 
+               <hi>For as the Natural Branch cannot bring forth Fruit, except it abide in the natural Vine, no more can any bring forth Fruit to God</hi> (acceptable) <hi>except they abide in the heavenly Vine,</hi> Chriſt Jeſus.</p>
+            <p>So <hi>Neighbours</hi> and <hi>Country-men,</hi> thus coming out of the Broad Way of Sin and Iniquity,
+<note place="margin">Mathew 7.</note> and walking in the Narrow Way of Righteouſneſs and Holineſs, following the Lamb of God, Chriſt Jeſus, in the Regeneration, ye are fitted for his glorious Kingdom; and they are indeed bleſſed that are come to that ſtate (who can in truth) ſay, <hi>For them to live is Chriſt, and to dye, gain.</hi>
+               <note place="margin">Phil. 1, 2.</note> Surely theſe have put off the ſins of the fleſh, the old Man with his Deeds, and have put on the New Man, <hi>who is created after God in Righteouſneſs and Holineſs.</hi>
+               <note place="margin">Epheſ. 4.24.</note> For our Life here is very uncertain and momentary, ſo that when we lie down in the Evening, we are uncertain of
+<pb n="14" facs="tcp:45719:8" rendition="simple:additions"/>riſing in the Morning; and when we riſe in the Morning, we are uncertain we ſhall live until the Evening: ſo as the Servants of God ſaid, <hi>Our Life is like Water ſpilt on the Ground, that cannot be gathered up again; it is like unto a Weavers ſhuttle quickly diſplayed and cut off;
+<note place="margin">Job 7.6.</note> and like the trace of a Bird through the Air.</hi>
+            </p>
+            <p>Well therefore, ſince our Life is ſo uncertain, and Death ſo certain, <hi>dear Country-men</hi> and <hi>Neighbours,</hi> in the tender Bowels of Chriſt Jeſus, I beſeech you, for your own poor Soul's ſake, whilſt you have <hi>time</hi> (a very little time) <hi>ſo to number your days,</hi> and remember your latter End,
+<note place="margin">Pſal. 90.12.</note> as to apply your hearts to that heavenly Wiſdom, which teacheth and inſtructeth to walk in the Narrow Way of Self-Denyal, which leads to Life Eternal: that when the <hi>Meſſenger</hi> of <hi>Death</hi> comes, the <hi>King</hi> of <hi>Terrors</hi> (to all Evil Doers) it may meet with you walking in the Way of Life that endures forever,
+<note place="margin">Job 18.14. Joh. 14.6.</note> which will be the Comfort, Joy and Satisfaction of all Men and Women that have prized their precious time, that God Almighty hath given them in the Riches of his Infinite Love, to obtain the heavenly Tranſlation out of the Kingdom of Darkneſs,
+<note place="margin">Col. 1.13.</note> into the Kingdom of his dear Son, Chriſt Jeſus, and thereby is fitted for that Huor,
+<note place="margin">Pſal. 146.4, 5, 6.</note> that when nothing but <hi>DEATH</hi> is expected every Moment, thy Breath in thy Noſtrils with<g ref="char:EOLhyphen"/>drawing, and thy dear <hi>Relations, Friends</hi> and <hi>Acquaint<g ref="char:EOLhyphen"/>ance</hi> are about thy <hi>Death-Bed,</hi> Mourning and Lament<g ref="char:EOLhyphen"/>ing, thou canſt comfort them with telling thy <hi>ſpiritual Experience,</hi> that thou art paſſed from Death unto Life ſpiritually,
+<note place="margin">Joh. 5.24.</note> and that thou art aſſured, when this Earthly Tabernacle is diſſolved, thou haſt an Houſe from Hea<g ref="char:EOLhyphen"/>ven made without hands eternal in the Heavens,
+<note place="margin">2 Cor. 5.1, 2, 3, 4.</note> an Eternal Immortal Manſion of Joy and Ever-bleſſed<g ref="char:EOLhyphen"/>neſs;
+<pb n="15" facs="tcp:45719:8" rendition="simple:additions"/>that having fought the good Fight,
+<note place="margin">2 Tim. 4.7. 1 Pet. 18, 19.</note> thou haſt overcome <hi>Sin, Death, Hell</hi> and the <hi>Grave,</hi> through him that hath loved and redeemed thee with his precious Blood, Chriſt Jeſus, the King of Eternal Glory; and the Seal of God's Favour is upon thy Soul, and the Joy of his Salvation on thy ſpirit:
+<note place="margin">Heb. 11.25.</note> And calleſt thy Neigh<g ref="char:EOLhyphen"/>bours that are ignorant of this precious Work; <q>Oh, Neighbours! do not content your ſelves with the Plea<g ref="char:EOLhyphen"/>ſures of Sin which are but for a ſeaſon (Oh! a little ſeaſon indeed) and loſe your own ſouls, and be ſhut out of the Paradiſe of God; Oh! but redeem your time, ſpend no more of it in ſin and Iniquity, in vain and fooliſh Diſ<g ref="char:EOLhyphen"/>courſes; but prize every hour,
+<note place="margin">Matthew 7. 1 Pet. 1.8.</note> walking in the <hi>Narrow Way,</hi> that ye may enter in at the <hi>ſtrait Gate</hi> into the Kingdom of Joy and Immortal Glory, where the Re<g ref="char:EOLhyphen"/>deemed enjoy endleſs Bleſſings of Peace, and unſpeaka<g ref="char:EOLhyphen"/>ble Conſolations, in the beholding the Amiable, Coele<g ref="char:EOLhyphen"/>ſtial Beauty of him who ſits at the Immortal Table of divine <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove, ſaying, <hi>Eat, O Friends, and drink, O Friends,
+<note place="margin">Cant. 5.</note> of the Bread of Life, and let your ſouls be ſatisfied with the fatneſs of the Houſe of God.</hi>
+               </q> Oh! Here (in this Kingdom) is an end of all pains, Sorrows, Burdens, Tears,
+<note place="margin">Rev. 2.10. Mat. 5.11, 12.</note> Con<g ref="char:EOLhyphen"/>flicts, Cruelties of Wicked Men, an end of Inhuman Ungodly Impriſonments, and here the Redeemed of the Lord are out of the reach of all cruel Hard-hearted men; yea, here the Weary are at Reſt in an Immortal Sabbath, beholding him who is a <hi>Fountain of Gardens,
+<note place="margin">Cant. 4 15.</note> and Well of living Waters and divine ſtreams:</hi> And here the New Song is ſung before the Throne of God in the ſpringing up of endleſs encreaſing Joy, and divine Refreſhments,
+<note place="margin">Rev. 7.12.</note> in which ariſeth Bleſſings and Glory, Wiſdom &amp; Thanks<g ref="char:EOLhyphen"/>givings: Honour, Power and Might be unto our God foreyer and evermore, <hi>Amen.</hi>
+            </p>
+            <pb n="16" facs="tcp:45719:9" rendition="simple:additions"/>
+            <p>
+               <hi>Friends, Neighbours</hi> and <hi>Country-men,</hi> who may have any doubt which are true Prophets, Miniſters or Tea<g ref="char:EOLhyphen"/>chers of Chriſt Jeſus, and which are falſe Prophets, Mi<g ref="char:EOLhyphen"/>niſters and Teachers of Antichriſt, ſince there have been both through many Ages of the World; unto all ſuch I make this friendly, reaſonable and Chriſtian Propoſi<g ref="char:EOLhyphen"/>tion, namely, to do like the noble <hi>Bereans,</hi> (who were deſirous of Truth) ſearch the Scriptures from <hi>Geneſis</hi> the firſt to <hi>Revelations</hi> the laſt, and mark in what Way they walked, and what Fruits they brought forth that were true Prophts, Miniſters or Teachers, both under the Law and Prophets; and on the other hand, what Way they walked in and what Fruits they brought forth, that manifeſtly were declared to be the falſe Prophets, Miniſters and Teachers, by the true Prophets, Chriſt Jeſus and his Apoſtles; ſo may ye ſafely conclude, thoſe that walk in the way of the true, and brings forth the Fruits of the true Miniſters of Chriſt Jeſus to be now true; and thoſe falſe now that walk in the Way and Footſteps of the falſe Prophets and Miniſters of Anti<g ref="char:EOLhyphen"/>chriſt. So ſearch the Scriptures, in the ſpirit of Truth that leads into all Truth, and receive Chriſt Jeſus's Pre<g ref="char:EOLhyphen"/>cept, <hi>Mat.</hi> 17.12, 14. about the <hi>ſtreight Gate</hi> and <hi>narrow Way,</hi> of which I have in his Love treated before; and in <hi>verſ.</hi> 15. following, he ſaith, <hi>Beware of falſe Prophets,</hi> &amp;c. (v. 16.) <hi>Ye ſhall know them by their Fruits,</hi> &amp;c.</p>
+            <div type="comparison">
+               <div type="part">
+                  <head>True Miniſters.</head>
+                  <p>
+                     <hi>Chriſt ſent them forth to prench the Kingdom of God, ſaying, The Harveſt truly is
+<pb n="17" facs="tcp:45719:9" rendition="simple:additions"/>great, but the Labourers are few, pray ye therefore the Lord of the Harveſt, that he would ſend forth Labourers into his Harveſt; go your wayes, behold I ſend you forth as Lambs among Wolves, car<g ref="char:EOLhyphen"/>ry neither Purſe nor Scrip, nor Shoes; and into whatſoever houſe ye enter, firſt ſay, Peace be to this houſe; and if the ſon of peace be there, your peace ſhall reſt upon it, if not, it ſhall return to you again,</hi> Luke 9.2, 3. <hi>ch.</hi> 10.2, 3, 4. <hi>The Elders which are among you, I exhort to feed the flock of God which is among you, not by conſtraint, but willingly, not for filthy Lucre, but of a ready mind; neither as being Lords over Gods Heritage, but being Enſamples to the ſtock,</hi> 1 Pet. 5.2, 3. Read Mat. 10.7.14. Luke 3.4, 5. <hi>ch.</hi> 10.10, 11. Acts 2.17, 18. <hi>ch.</hi> 20.33, 34. Rom. 12.7, 8. to 17. 1 Cor. 2.13, 14. <hi>ch.</hi> 4.9, 10, 11, 12. <hi>ch.</hi> 9.18, 19. 2 Cor. 3.4, 6. Col. 1.25. 1 Theſ. 2.9. 2 Theſ. 3.8. 1 Tim. 6.10, 11. 2 Iim. 2.24. <hi>ch.</hi> 4.2. 1 Pet. 4.10, 11. Jer. 7.25.</p>
+               </div>
+               <div type="part">
+                  <pb n="16" facs="tcp:45719:9" rendition="simple:additions"/>
+                  <head>Falſe Miniſters.</head>
+                  <p>
+                     <hi>Thus ſaith the Lord con<g ref="char:EOLhyphen"/>cerning the Prophets that make my People err, that bite with
+<pb n="17" facs="tcp:45719:9" rendition="simple:additions"/>their Teeth, and cry Peace, and he that putteth not into their Mouths, they even prepare War againſt him; the heads thereof judge for Reward, and the Priests thereof teach for Hire, and the Prophets thereof divine for Money,</hi> Mica. 3.5. <hi>Wo be to the Shepherds of</hi> Iſrael, <hi>that feed themſelves; ſhould not the ſhepherds feed the flock? Ye eat the fat, and ye clothe you with the Wool; ye kill them that are fed, but ye feed not the flock,</hi> &amp;c. Ezek. 34.2, 3, 4, 5. Alſo, read Pſal. 94.3, 4. Iſa. 46.10, 11. Jer. 2.8. <hi>chap.</hi> 5.25, to 31. <hi>ch.</hi> 14.13, 14, 15. <hi>ch.</hi> 23.11, 13, 14, 15, 16, 21, 25, 26, 30, 31, 32, 33, 34. <hi>ch.</hi> 27.16. <hi>ch.</hi> 29.8. <hi>ch.</hi> 32.32. <hi>ch.</hi> 37.19. Ezek. 13.2, 3, 4, 5, 6, 7, 8, 9, 16, 17. <hi>ch.</hi> 34.2, 3, 4, 5, 6, 7, 8, &amp;c. Zeph. 3.4. Mat. 6.5. <hi>ch.</hi> 7.15, 16. <hi>ch.</hi> 23.7, 8, 13, 14. Mark 12.38, 39, 40. <hi>ch.</hi> 13.22. Luke 6.26. John 10.12, 13, 2 Pet. 2.1, 2, 3, 4. <hi>ch.</hi> 2.3.4. 1 John 4.1. 1 Tim. 6.3, 4, 5. <hi>ch.</hi> 4.12. Jude <hi>ver.</hi> 11, 16.</p>
+               </div>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="18" facs="tcp:45719:10" rendition="simple:additions"/>
+            <head>POSTSCRIPT. <hi>A</hi> Memorial <hi>of the</hi> Tender Mercies <hi>of the</hi> Lord <hi>unto</hi> Briſtol's Inhabitants, <hi>with an</hi> Invitation <hi>to, and</hi> Lamentation <hi>over them.</hi>
+            </head>
+            <p>OH, <hi>Briſtol, Briſtol!</hi> a City ſavoured of the Lord, and tenderly dealt with by him! how good hath the Merciful Compaſſionate God been unto thy Inhabitants, and to the Countries round about thee! Its now many years ſince ye were exerciſed with the <hi>Sword</hi> and <hi>Peſti<g ref="char:EOLhyphen"/>lence,</hi> ſince which, how many Favours haſt thou received and enjoyed in an abundant manner, from the hand of a tender merciful God! Thou haſt been in thy Buildings much enlarged, and thy Inhabitants much in creaſed; Corn, Wine and Oyl, with Riches, and abundance of the good Creatures, even all things neceſſary hath the Lord God Almighty given thy Inhabitants. And in the ſeaſon he ſtretched out his hand over the <hi>Metropolitan</hi> of this Nation, and with the dreadful Stroke of the <hi>Piſtilence</hi> took away Multitudes (even many Thouſands) he ſhaked his Hand only over thee, taking away a few of thy Inhabitants, as a fatherly Threatning, and then giving thy Inhabitants, (and many places in this Land) an opportunity and ſeaſon of wonderful Kindneſs and great Mercy, to fear and dread his Great,
+<pb n="19" facs="tcp:45719:10" rendition="simple:additions"/>Glorious and Terrible Name, and wonderful Power, and by that terrible Judgment provoke thy Inhabitants (with the Thouſands of this Land every one to repent, and turn from the Evil of his Doings, and remove the ſtum<g ref="char:EOLhyphen"/>bling Block of their Iniquities, <hi>&amp;c.</hi> And not only theſe Mercies and Favours hath the Lord extended to thy In<g ref="char:EOLhyphen"/>habitants, O City of <hi>Briſtol!</hi> which ſurely ye cannot but confeſs unto; but he hath ſhewn thy Inhabitants a Mercy exceeding all theſe, namely, he hath viſited you Dwellers in that City with the Morning of his holy Day ſpringing from on High, and by his Coeleſtial Light hath ſhined in the Hearts of many, to give an Under<g ref="char:EOLhyphen"/>ſtanding of their ſtates in the Separation and Alienation from God, and to beget tender Breathings and Soul. Pantings after the knowledge of Chriſt Jeſus, the Savi<g ref="char:EOLhyphen"/>our and Redeemer of Mankind; for without the Know<g ref="char:EOLhyphen"/>ledge of God, and Chriſt Jeſus, whom he hath ſent, E<g ref="char:EOLhyphen"/>ternal Life cannot be obtained.</p>
+            <p>And this Day of unexpreſſible tender Viſitation from God Almighty, reached unto many of thy Inhabitants, and awakened them inwardly to ſeek after the Know<g ref="char:EOLhyphen"/>ledge of Salvation, and to walk in the <hi>narrow Way,</hi> and experience the Work of God (before mentioned in this little Treatiſe, <hi>&amp;c.</hi>) Oh!
+<note place="margin">Prov. 1.20, 21 22, 23.</note> how hath Wiſdom uttered her Voice in the ſtreets! She cryeth in the chief places of Concourſe; in the opening of the Gates in the City, ſhe uttereth her words, ſaying, <hi>How long, ye ſimple Ones, will ye love ſimplicity, and ye Scorners delight in ſcorning, and Fools hate Knowledge? Turn ye at my Reproof; behold, I will pour out my Spirit unto you, I will make known my Words unto you.</hi> Indeed the Lord God of Life and Glory hath through his Son Chriſt Jeſus called unto, and ſtretched out his divine Hand of Love, and Arm of Salvation
+<pb n="20" facs="tcp:45719:11" rendition="simple:additions"/>unto you; and thus the Lord, in unexpreſſible loving Kindneſs, hath dealt with thee, O <hi>Briſtol!</hi> ſparing thy Inhabitants, and lengthening out the Day of his Love, ſtretching out his Hand and Arm all the day long, and crying to you, as he did by his Prophet to <hi>Iſrael, Why will ye dye, O Houſe of</hi> Iſrael! Ah! the Tenderneſs of a Long-ſuffering God! How hath he waited on you, that his Long-ſuffering might lead to Repentance, and your Turning, Repenting and Forſaking your ſin and Iniqui<g ref="char:EOLhyphen"/>ties that have grieved his good ſpirit, might have prevai<g ref="char:EOLhyphen"/>led with the Lord to ſpare you: Oh! what ſhall I ſay of the deep Love and wonderful Kindneſs of the Lord, and his long waiting on you! but in the ſenſe and Ad<g ref="char:EOLhyphen"/>miration thereof, ſay, <hi>VVho is like to the Lord? excellent in Majeſty, Almighty in Power, Glorious in Strength, and VVonderful in VViſdom and Mercy!</hi> Well might the ſervant of the Lord cry out and ſay,
+<note place="margin">Prov. 1.24, 25, 26.</note> 
+               <hi>Oh! the Height, Length, Breadth and Depth of the Love of God in Chriſt Jeſus, to the Sons and Daughters of men!</hi> of the extending of which Love, you the Inhabitants of that City have been large Partakers, &amp;c. But now, O Inhabitants of that great City! how have ye anſwered the Lord for all his tender Mercies and undeclarable loving Kindneſs? Hive you ſo hearkened to the Voice of Wiſdom, as to break off your ſins by true Repentance? Have you heard her cry, and turned to the Lord? Have you loved Judgment, Mercy, Truth and Righteouſneſs? Are ye of that Number that ſhall obtain Mercy, becauſe ye are Merciful? In a word, Have ye anſwered the Re<g ref="char:EOLhyphen"/>quirings of Almighty God, and prized the Day of your Viſitation, and all the Mercies multiplied unto you, honouring the great Creator of Heaven and Earth, in bringing forth the Fruits of the Spirit, <hi>Love, Joy, Peace,
+<pb n="21" facs="tcp:45719:11" rendition="simple:additions"/>Long-ſuffering. Gentleneſs, Goodneſs, Faith, Meeknoſs, Temperance, &amp;c.</hi> But, O <hi>Briſtol, Briſtol!</hi> have you not evilly requited the Lord? Have ye not ſlighted the tender Day of his Loving-kindneſs? Are not your Sins of a deep Die, and your Iniquities of a Crying Nature, like unto the Sins of <hi>Sodom</hi> and <hi>Gomorrah,</hi> great and grie<g ref="char:EOLhyphen"/>vious? And are you not bringing forth Fruits altoge<g ref="char:EOLhyphen"/>ther contrary to thoſe of the Spirit, before mentioned, which are theſe, <hi>Adultery, Fornication, <g ref="char:V">Ʋ</g>ncleanneſs,
+<note place="margin">Gal. 5.19, 20, 21.</note> Laſciviouſneſs, Idolatry, Witch-craft, Hatred, Variance, Emulations, Wrath, Strife, Seditions, Hereſies, Envying, Murder, Drunkenneſs, Revelling,</hi> as the Apoſtle ſaith, <hi>they which do ſuch things ſhall not inherit the Kingdom of God.</hi> Read, and conſider whether many of you, thy Inhabitants, are not guilty of ſeveral of theſe grievous Sins, ſummed up by the Apoſtle: Is not Violence in your hands, as it was in <hi>Nineveh?</hi> Are not you cruelly Per<g ref="char:EOLhyphen"/>ſecuting and Impriſoning thoſe whoſe Cryes aſcend to Heaven, and are entred into the Ears of the moſt high Lord God of Sabbaths? Are not vain Lifeleſs Profeſſions and Prophaneſs multiplied in thee? Oh! conſider theſe things, and be invited, in the Bowels of Chriſt Jeſus, to break off all theſe Sins by Repentance, and turn to the Lord God with all your Hearts, and Repent as the Inhabitants of <hi>Nineveh</hi> did, who cried mightily to the Lord, and ſaid, <hi>Yea, let them turn every man from the Evil of his way, and from the Violence that is in their Hands; who can tell if the Lord will turn away from his fierce Anger, that we periſh not?</hi> but if ye ſhall ſtill go on, and perſiſt in your Iniquities,
+<note place="margin">Prov. 1.24, 25, 26.</note> and reſiſt the Counſel of God againſt your ſelves, then hear the Voice of that Wiſdom that in<g ref="char:EOLhyphen"/>vited, and invites; <hi>Becauſe I have called, and ye have re<g ref="char:EOLhyphen"/>fuſed; I have ſtretched out my Hand, and no man regarded
+<pb n="22" facs="tcp:45719:12" rendition="simple:additions"/>but ye have ſet at naught all my Counſel, and would none of my Reproof; I will alſo laugh at your Calamities; I will mock when your Fear cometh as Deſolation, your Deſtruction as a Whirl-wind; when Diſtreſs and Anguiſh cometh on you, then ſhall they call upon me, but I will not anſwer; they ſhall ſeek me early, but they ſhall not find me, for that they hated Knowledge, and did chuſe the Fear of the Lord; they would none of my Counſel, therefore ſhall they eat of the Fruit of their own Way, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e filled with their own De<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</hi> &amp;c. Ah poor <hi>Briſtol!</hi> what Lamentation ſhall I take up over thee? Firſt, in the Conſideration of the unexpreſſible Love, Mercy, Tender Dealings and Long-ſuffering of a tender Father: ſecondly, of thy Inhabitants grievous Sins, Ingratitude and great Provocation, which is a very unſuit<g ref="char:EOLhyphen"/>able return to the Lord for all his tender Mercies: And thirdly, of thy deplorable eſtate (on ſeveral conſiderati<g ref="char:EOLhyphen"/>ons) but mourn over thee, in the Compaſſion of the Spirit of Chriſt Jeſus, who when he was come near <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> he beheld the City, and wept over it, ſaying, <hi>If thou hadſt known, (even thou) at leaſt in this thy Day the things which belong unto thy Peace, but now they are hid from thine Eyes,</hi> &amp;c. My Soul is concerned for you deeply, in the ſence of the Lord's being angry with you, becauſe you have, and do continue to ſin againſt great Mercies, yea, adding Sin unto Sin. Oh! be prevailed with to go on no further in the <hi>Broad Way</hi> of Deſtruction, before demonſtrated, leſt you provoke the Lord more and more, and he pour forth his Fury like Fire.</p>
+            <p>Oh! Inhabitants of <hi>Briſtol,</hi> Awake, Awake, high and Low, Rich and Poor, Male and Female, Bond and Free, conſider your ſtates, in this Evening of many of thy Inhabitants Day,
+<note place="margin">Pſ. 2.11.12.</note> before it be too late: <hi>Return, re<g ref="char:EOLhyphen"/>turn, and ſerve the Lord with Fear and Trembling, kiſs the
+<pb n="23" facs="tcp:45719:12" rendition="simple:additions"/>Son leſt he be angry, and ye periſh from the Way; when his Wrath is kindled but a little, bleſſed are all they that put their Truſt in him.</hi> Oh! that the Dread of the Moſt-High God might ſeize on your Spirits, to give you that ſence the Inhabitants of the City of <hi>Nineveh</hi> had,
+<note place="margin">John 3.5, 6, 7, 8, 9, 10.</note> and what Mercy and Kindneſs of the Lord followed the turning every man from the Evil of his Way, and from the Vio<g ref="char:EOLhyphen"/>lence that was in their Hand, might be thy Inhabitants lot, how ſhould my Soul rejoyce, and Spirit be right glad, and bow before the Lord God of the whole Earth in Humility, with Thanksgivings, &amp;c. But if you will harden your Hearts, and ſtiffen your Necks, and will not hear, my Soul ſhall mourn in the ſight of your Di<g ref="char:EOLhyphen"/>ſtreſs that will overtake as Travail on a Woman, where<g ref="char:EOLhyphen"/>in your Faces will gather Paleneſs, your Hearts be filled with Anguiſh.</p>
+            <closer>
+               <dateline>
+                  <hi>Fleet-Priſon,</hi> 
+                  <date>the 9th Moneth, 1683.</date>
+               </dateline>
+               <signed>C. M.</signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <p>
+               <hi>AH! thou holy Moſt-high God of Mercy and tender Compaſſion, look down with an Eye of Pity on the Inhabitants of the Earth, and ſend forth thy Light and Truth more and more, to guide the Peo<g ref="char:EOLhyphen"/>ple out of the Broad Way of Deſtruction into thy narrow Way of Life, which leads to thy Holy Mountain, where there is no burting nor de<g ref="char:EOLhyphen"/>ſtroying: O! that through the glorious out-ſtretched Arm of thy Sal<g ref="char:EOLhyphen"/>vation, Sin may be finiſhed, and Iniquity brought to an end, that the Righteouſneſs of Chriſt Jeſus (the dear Son of thy Love) may cover the Earth, as the Waters cover the Sea: Ah! for thy Name's ſake hear the Cry of the Poor, and Sighing of the Needy, and ſtretch forth thy Arm and deliver thy oppreſſed out of their Diſtreſſes, that thy Creation, O Lord, may be eaſed, and thy great Name, and the Noble Acts of thy Almighty Arm and divine Power may be renowned gloriouſly through all Lands; Amen, Amen.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
